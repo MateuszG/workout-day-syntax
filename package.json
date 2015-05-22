@@ -5,6 +5,11 @@
   "description": "Clean, light theme.",
   "repository": "https://github.com/MateuszG/workout-day-syntax",
   "license": "MIT",
+  "keywords": [
+    "light",
+    "white",
+    "blue"
+  ],
   "engines": {
     "atom": ">=0.200.0"
   },
