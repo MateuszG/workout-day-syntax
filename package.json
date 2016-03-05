@@ -3,7 +3,10 @@
   "theme": "syntax",
   "version": "0.1.6",
   "description": "Clean, light theme.",
-  "repository": "https://github.com/MateuszG/workout-day-syntax",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateuszG/workout-day-syntax.git"
+  },
   "license": "MIT",
   "keywords": [
     "light",
@@ -16,6 +19,21 @@
   "_atomModuleCache": {
     "version": 1,
     "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
     "folders": []
-  }
+  },
+  "readme": "# workout-day-syntax theme\n\nClean, light theme.\n\n\nPreview: \n\n![Preview](http://i.imgur.com/sTcxXQm.jpg?1)\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/MateuszG/workout-day-syntax/issues"
+  },
+  "homepage": "https://github.com/MateuszG/workout-day-syntax#readme",
+  "_id": "workout-day-syntax@0.1.6",
+  "_shasum": "afae801616c002b554e7903de1840e1760886975",
+  "_resolved": "file:../d-11625-5852-1chu3pn/package.tgz",
+  "_from": "../d-11625-5852-1chu3pn/package.tgz"
 }
