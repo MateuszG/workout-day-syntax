@@ -1,0 +1,75 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/tmp/d-1161016-14057-15x9wwv/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/tmp/d-1161016-14057-15x9wwv/package.tgz",
+        "spec": "/tmp/d-1161016-14057-15x9wwv/package.tgz",
+        "type": "local"
+      },
+      "/tmp/apm-install-dir-1161016-14057-1i9uzo6"
+    ]
+  ],
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  },
+  "_from": "../d-1161016-14057-15x9wwv/package.tgz",
+  "_id": "workout-day-syntax@0.1.8",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/workout-day-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/tmp/d-1161016-14057-15x9wwv/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/tmp/d-1161016-14057-15x9wwv/package.tgz",
+    "spec": "/tmp/d-1161016-14057-15x9wwv/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-1161016-14057-15x9wwv/package.tgz",
+  "_shasum": "afae801616c002b554e7903de1840e1760886975",
+  "_shrinkwrap": null,
+  "_spec": "/tmp/d-1161016-14057-15x9wwv/package.tgz",
+  "_where": "/tmp/apm-install-dir-1161016-14057-1i9uzo6",
+  "bugs": {
+    "url": "https://github.com/MateuszG/workout-day-syntax/issues"
+  },
+  "dependencies": {},
+  "description": "Clean, light theme.",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=0.200.0"
+  },
+  "homepage": "https://github.com/MateuszG/workout-day-syntax#readme",
+  "keywords": [
+    "light",
+    "white",
+    "blue"
+  ],
+  "license": "MIT",
+  "name": "workout-day-syntax",
+  "optionalDependencies": {},
+  "readme": "# workout-day-syntax theme\n\nClean, light theme.\n\n\nPreview: \n\n![Preview](http://i.imgur.com/sTcxXQm.jpg?1)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateuszG/workout-day-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "0.1.8"
+}
