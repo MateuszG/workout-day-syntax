@@ -172,14 +172,20 @@ atom-text-editor,
     color: @very-light-gray;
     font-weight: normal;
 
+    &.object {
+      &.property {
+        color: @orange;
+      }
+    }
+
     &.property {
-      color: @green;
+      color: @orange;
       font-weight: bold;
     }
   }
 
   &.parameter {
-    color: @amber;
+    color: @yellow;
   }
 
 
@@ -304,7 +310,7 @@ atom-text-editor,
   }
 
   &.name.class, &.name.type {
-    color: @teal;
+    color: @lime;
   }
 
   &.name.section {
