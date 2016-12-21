@@ -81,6 +81,7 @@ atom-text-editor,
   &.name.type {
     color: @blue;
     font-weight: bold;
+
     &.class {
       color: @deepOrange;
     }
@@ -162,8 +163,8 @@ atom-text-editor,
   &.parameter.function {
     color: @pink;
   }
-  &.language{
-      color: @lime;
+  &.language {
+      color: @deepOrange;
   }
 
   &.property {
@@ -175,14 +176,20 @@ atom-text-editor,
     color: @very-light-gray;
     font-weight: normal;
 
+    &.object {
+      &.property {
+        color: @orange;
+      }
+    }
+
     &.property {
-      color: @green;
+      color: @orange;
       font-weight: bold;
     }
   }
 
   &.parameter {
-    color: @amber;
+    color: @yellow;
   }
 
 
@@ -310,7 +317,7 @@ atom-text-editor,
   }
 
   &.name.class, &.name.type {
-    color: @teal;
+    color: @lime;
   }
 
   &.name.section {
